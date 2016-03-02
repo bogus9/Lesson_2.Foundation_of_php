@@ -50,7 +50,7 @@
     # ---------
     /* ≈сли мы попытаемс€ изменить значение константы после того, 
      * как оно было определено, то получим сообщение об ошибке - 
-     * Notice: Constant MOY_GOROD already defined in /var/www/
+     * (!) Notice: Constant MOY_GOROD already defined in /var/www/
      */
     define('MOY_GOROD', '"ћосква"');
     
